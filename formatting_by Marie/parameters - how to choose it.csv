@@ -1,0 +1,7 @@
+vector_name;format;sep;dec;reading_pb;spot_extra_lines;num_line;column_date;column_time;column_latitude;lat_N_or_S;column_longitude;long_E_or_W;format_date;hour;location_col;column_ID;header;datetime_or_not
+a1ME;csv;,;.;no;no;1;1;1;1;nothing;1;nothing;%Y/%m/%d;HLOC;automatic;no;TRUE;no
+1CH;txt;.;,;tagID;EVENT;2;2;2;2;N;2;E;%d/%m/%Y;UTC;manually;1;FALSE;2
+2;;";";;EVENT;;3;3;3;3;S;3;W;%Y.%m.%d;;1;2;;
+…;;space;;extra_lines;;4;4;4;4;;4;;%d.%m.%Y;;2;3;;
+;;;;;;5;5;5;5;;5;;%Y-%m-%d;;3;4;;
+;;;;;;…;…;…;…;;…;;;;…;…;;
