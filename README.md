@@ -13,5 +13,5 @@ Dr Sophie Bertrand in IRD, UMR MARBEC sophie.bertrand@ird.fr (https://umr-marbec
 phD student Amédée Roy (https://www.theses.fr/2022UMONG049)
 
 
-If you need more information don't hesitate to contact me,
+If you need more information don't hesitate to contact me,  
 Marie
